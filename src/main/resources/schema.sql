@@ -1,4 +1,4 @@
-CREATE TABLE EmployeeDatabase(
+CREATE TABLE employee(
 	id BIGINT PRIMARY KEY AUTO_INCREMENT,
 	firstName VARCHAR(25),
 	lastName VARCHAR(25),
